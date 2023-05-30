@@ -7,10 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web applications
 - 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with the contribution on a live project
-- 💬 Ask me about...
-- 📫 How to reach me...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: All python developers wear glasses bcz they can't C ...!!
 
